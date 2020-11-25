@@ -1,5 +1,5 @@
 #include "fixedpoint.h"
-
+123
 int float2fix(float f, int wl, int iwl) {
 	ieee754_float standard;
 	standard.f = f;
